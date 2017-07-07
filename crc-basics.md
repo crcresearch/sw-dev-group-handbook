@@ -6,7 +6,7 @@
 * [Work Related Events](#work-related-events)
     * [CRC All Hands Meetings](#crc-all-hands-meetings)
     * [NDR All Hands Meetings](#ndr-all-hands-meetings)
-    * [Lunch & Learn](#lunch-&-learn)
+    * [Lunch & Learn](#lunch-and-learn)
 * [Mailboxes](#mailboxes)
 * [First Aid](#first-aid)
 * [Dress Code](#dress-code)
@@ -18,7 +18,7 @@
     * [Networks](#networks)
     * [VPN](#vpn)
     * [Printing](#printing)
-    * [Collaboration & File Storage](#collaboration-&-file-storage)
+    * [Collaboration & File Storage](#collaboration-and-file-storage)
     * [Software](#software)
     * [CWP](#cwp)
     
@@ -43,7 +43,7 @@ We've been having monthly All-Hands Breakfast meetings in the morning where the 
 ### NDR All Hands Meetings
 Every year there is a Notre Dame Research All Hands Meeting that we are invited to. If you've looked at the [Organizational Structure](), you know that the CRC is within the Notre Dame Research Department. This is an opportunity to celebrate the accomplishments within the department and hear about upcoming plans.
 
-### Lunch & Learn
+### Lunch and Learn
 Lunch and Learn, when scheduled, take place on Mondays during lunch time. These meetings provide a forum for anyone to present new technologies, interesting ideas, or information that is relevant to us as developers. Lunch and Learns are not scheduled regularly, but if you have an interest in presenting during one, please talk to Caleb.
 
 ## Mailboxes
@@ -118,7 +118,7 @@ Notre Dame makes many software titles available for use across campus. Below you
 
 You can also purchase some software for personal or university use at a discount. More information [here](https://nd.service-now.com/kb_view.do?sysparm_article=KB0011317).
 
-### Collaboration & File Storage
+### Collaboration and File Storage
 The University provides access to Google Drive and [Box](https://notredame.app.box.com) for file storage. Using your NetID and password, you should have free, unlimited use of each of those for file storage. 
 
 Keep in mind that if your project is working with very sensitive data, it is not a good idea to save that information in these locations.
