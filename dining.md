@@ -1,4 +1,9 @@
-# Eating on Campus
+# Dining
+##Contents
+* [Eating on Campus](#eating-on-campus)
+* [Eating near Campus](#eating-near-campus)
+
+## Eating on Campus
 There are numerous places to eat on campus.  
 
 There is a full list of on-campus dining options located here: https://dining.nd.edu/locations-menus/  
@@ -7,7 +12,7 @@ There is a full list of on-campus dining options located here: https://dining.nd
 * [Weekly Specials](https://dining.nd.edu/locations-menus/this-weeks-specials/)
 * [South Dining Hall Menu](https://dining.nd.edu/locations-menus/south-dining-hall/)
 * [North Dining Hall Menu](https://dining.nd.edu/locations-menus/north-dining-hall/)
-
+* [South Dining Hall Map](#south-dining-hall-map)
 
 ### Faculty & Staff Meal Plans
 It is possible for Staff members to add a meal plan to their account. You will be able to swipe your ID card in the Dining Hall for meals.
@@ -20,6 +25,11 @@ Eating in the dining hall without a meal plan will cost you around $14. If that 
 
 For more information on meal plans, visit:
 https://dining.nd.edu/services/meal-plans/faculty-staff/
+
+### South Dining Hall Map
+The dining hall can be overwhelming. Below is a map of the interior of South Dining Hall.
+
+![alt text](sdh-map.png "SDH Map")
 
 ## Eating near Campus
 
