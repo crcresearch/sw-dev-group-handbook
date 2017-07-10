@@ -13,7 +13,7 @@ We typically observe Pi Day (March 14) by bringing in different kinds of pies to
 Pi Day 2017 was the first year we added Pie Throwing to the celebration as a fundraiser for Hope Ministries. Thanks to Dave Pettifor for creating this [video of the celebration](https://www.youtube.com/watch?v=aBzpqIFSVVc). Photos can be found in [Google Drive](https://drive.google.com/drive/folders/0B9mn2tCdDG-Fdm56aE53ZlVYRmM?usp=sharing).
 
 ### March Madness
-Each year, we do an NCAA Bracket Challenge within the CRC. Typically, [Paul Brenner](paul.r.brenner@nd.edu) coordinates the bracket challenge. Paul will send out an email before the tournament begins to invite all CRC members to participate. Everyone is welcome to participate and you don't need to know anything about basketball. 
+Each year, we do an NCAA Bracket Challenge within the CRC. Typically, [Paul Brenner](mailto:paul.r.brenner@nd.edu) coordinates the bracket challenge. Paul will send out an email before the tournament begins to invite all CRC members to participate. Everyone is welcome to participate and you don't need to know anything about basketball. 
 
 ### Football Fridays
 On Fridays before home football games, the University hosts Football Fridays over between the Alumni Center and Hammes Bookstore. There is free popcorn, hot dogs for $1, and other food. They have speakers, music, and a photo booth with fun props. You can also go down the tunnel in the stadium or tour the Guglielmino Complex where the team practices. 
