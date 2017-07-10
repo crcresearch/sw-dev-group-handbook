@@ -8,6 +8,9 @@ Handbook for the Software Development group of the Center for Research Computing
 * [Rooms & Spaces](rooms.md)
 * [Dining](dining.md)
 * [Benefits](benefits.md)
+* [Social Events](crc-social-events.md)
+* [Useful Resources](useful-links.md)
 
 
 
+                                                                                                                                                                                                                                                           

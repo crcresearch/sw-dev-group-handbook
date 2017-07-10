@@ -116,7 +116,7 @@ Notre Dame makes many software titles available for use across campus. Below you
 
 [Software Downloads](https://oit.nd.edu/services/software/software-downloads/) (requires NetID and password)
 
-You can also purchase some software for personal or university use at a discount. More information [here](https://nd.service-now.com/kb_view.do?sysparm_article=KB0011317).
+You can also purchase some software for personal or university use at a discount. More information can be found [here](https://nd.service-now.com/kb_view.do?sysparm_article=KB0011317).
 
 ### Collaboration and File Storage
 The University provides access to Google Drive and [Box](https://notredame.app.box.com) for file storage. Using your NetID and password, you should have free, unlimited use of each of those for file storage. 
@@ -124,4 +124,9 @@ The University provides access to Google Drive and [Box](https://notredame.app.b
 Keep in mind that if your project is working with very sensitive data, it is not a good idea to save that information in these locations.
 
 ### CWP
+The CWP (Campus Workstation Program) provides funds for a new computer for eligible faculty and staff every four years. If you inherit a computer, you inherit its CWP as well. 
+
+Marcy can tell you when your CWP is up. When your CWP comes up, Caleb will assist you with the process.
+
+More information on the CWP can be found [here](https://nd.service-now.com/$knowledge.do?query=cwp).
 

@@ -11,6 +11,9 @@ The following are conference rooms that we frequently use for meetings:
 * ITC 121
 * ITC B033
 
+## Pair Programming Stations
+ There are two pair programming stations located in ITC 107. These stations are not bookable in the system, but will be available on a First-come, first-served basis. Caleb, the Scrum masters, and Laura will have keys to the pair programming room.
+
 ## Lounge/Break Room
 ITC 128 is our break room.  
 The microwave, refrigerator, and Keurig will be placed in there at some point in the future.  
