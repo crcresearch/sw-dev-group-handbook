@@ -12,6 +12,9 @@
 * [Communication](#communication)
     * [Google Group](#google-group)
     * [Slack](#slack)
+* [Version Control](#version-control)
+    * [Git](#git)
+    * [GitHub](#github)
 * [Weekly Dev Group Meeting](#monday-dev-group-meetings)
 
 ## Attendance
@@ -97,7 +100,7 @@ Alternatively, you can add a new topic directly within the [CRC CI Developers](h
 ### Slack
 The CRC uses Slack as its inter-office chat system.
 
-Our team is **crc-nd**. You can join the team [here](https://slack.com/get-started#join) or through an invitation email sent when one of the admins adds you to the team.
+Our team is **crc-nd**. You can join the team [here](https://slack.com/get-started#join) or through an invitation email sent when one of the admins adds you to the team. Currently, Rob Wieck and Caleb are admins for our organization
 
 We have a  number of channels for different conversations.
 You are required to join the #announcements channel.
@@ -109,7 +112,18 @@ Channels also exist for other interests, such as: sports, coffee, board games, e
 
 Your scrum team may decide to create a channel for team discussion.
 
+## Version Control
+### Git
+The CRC uses [git](https://git-scm.com) to version control code. Git is the industry standard for versioning and distributing code. 
+
+We generally employ a git branching model that is [gitflow](https://github.com/nvie/gitflow)-ish and loosely resembles the pattern in the related [blog post](http://nvie.com/posts/a-successful-git-branching-model/).
+
+### GitHub
+The CRC's git projects are usually hosted on GitHub. The CRC has a GitHub organization called **crcresearch**. Alex is the administrator of this organization and can add you as a collaborator. Our academic organization status allows us to use unlimited private repositories within our team.
+
 ## Monday Dev Group Meetings
 Every Monday at 1:00 PM, we have a software developer group meeting. 
 
 This is a chance to share announcements, information, and ask questions. Usually we begin with a fun activity. Attendance is required unless you have a scheduled absence.
+
+

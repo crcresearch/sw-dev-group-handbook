@@ -38,10 +38,10 @@ Available Forms:
 Breakfast items are provided every Monday morning in the ITC 111 Conference Room.
 
 ### CRC All Hands Meetings
-We've been having monthly All-Hands Breakfast meetings in the morning where the entire CRC/CSR is together for announcements. We also have an All-Hands meeting in the dining hall about twice a year. All-Hands meetings are mandatory attendance. Sickness is excused and for the breakfast meetings, if you have a conflict you must let your manager and Jarek know.
+We've been having monthly All-Hands Breakfast meetings in the morning where the entire CRC/CSR (Center for Social Research) is together for announcements. We also have an All-Hands meeting in the dining hall about twice a year. All-Hands meetings are mandatory attendance. Sickness is excused and for the breakfast meetings, if you have a conflict you must let your manager and Jarek know.
 
 ### NDR All Hands Meetings
-Every year there is a Notre Dame Research All Hands Meeting that we are invited to. If you've looked at the [Organizational Structure](), you know that the CRC is within the Notre Dame Research Department. This is an opportunity to celebrate the accomplishments within the department and hear about upcoming plans.
+Every year there is a Notre Dame Research All Hands Meeting that we are invited to. If you've looked at the Organizational Structure, you know that the CRC is within the Notre Dame Research Department. This is an opportunity to celebrate the accomplishments within the department and hear about upcoming plans.
 
 ### Lunch and Learn
 Lunch and Learn, when scheduled, take place on Mondays during lunch time. These meetings provide a forum for anyone to present new technologies, interesting ideas, or information that is relevant to us as developers. Lunch and Learns are not scheduled regularly, but if you have an interest in presenting during one, please talk to Caleb.
@@ -65,14 +65,14 @@ During the academic year, we are expected to dress in business casual. This is e
 ### CRC Summer Dress Code
 During the summer, things are much more relaxed. The University allows employees to dress more casually. Jeans can be worn more frequently. 
 
-Typically, in the CRC, we are allowed to wear shorts during the summer. This will be communicated to the group by management. Shorts must be a workplace appropriate length.
+Typically, in the CRC, we are allowed to wear shorts during the summer. This will be communicated to the group by management. Shorts must be a workplace appropriate length. Athletic shorts are not permitted.
 
 Flip flops and sport sandals are not permitted at any time.
 
 
 ## Communication
 ### Zoom
-The University uses Zoom as its preferred service for audio & video conferencing. 
+The University uses Zoom as its preferred service for audio & video conferencing and provides the paid tier to all University members when signing up through the notredame.zoom.us domain. 
 
 Zoom integrates with Google Calendar, so you can schedule a Zoom meeting easily. To schedule a Zoom meeting, you will need to create an account which will require your Notre Dame NetID. You do not need an account to join a meeting.
 
@@ -92,7 +92,7 @@ Wired network connections are available in nearly all campus buildings. To use t
 [Network - OIT](https://oit.nd.edu/services/network/)
 
 ### VPN
-If you are off campus, you can connect to the Campus VPN. Several sites will require you to be physically on campus or use the VPN for access.
+If you are off campus, you can connect to the Campus VPN. Several sites, including [the CRC Redmine instance](https://redmine.crc.nd.edu) will require you to be physically on campus or use the VPN for access.
 
 [Use the ND VPN](https://vpnaccess.nd.edu/+CSCOE+/logon.html)
 

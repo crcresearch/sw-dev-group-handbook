@@ -1,5 +1,6 @@
 # Dining
-##Contents
+
+## Contents
 * [Eating on Campus](#eating-on-campus)
 * [Eating near Campus](#eating-near-campus)
 
