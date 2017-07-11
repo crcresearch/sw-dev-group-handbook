@@ -40,14 +40,30 @@ The Software Development Group also has an Out of Office Calendar that all of ou
 ### Timekeeping
 Time is logged in Redmine.
 
-[Redmine Time Logging](https://redmine.crc.nd.edu/reports/home/)
+[Redmine Time Logging Site](https://redmine.crc.nd.edu/reports/home/)
 
 All time must be logged by the end of every week. It is easiest to log time on a daily basis. 
 
-MyTimeOff-related absences should also be recorded in Redmine under the appropriate subproject of the MyTimeOff project in Redmine.
+Time is entered on the Entries page. Redmine also provides a calendar view and a pie chart view depicting the time distribution between projects.
+
+To enter your time:
+* Select the Project or other category that the item is billed to in the leftmost dropdown. 
+* Make sure you are entering time for the correct date. If you enter your time daily, this will default to the current day and you won't have any problems.
+* Time should be entered in a minimum of half hour increments. 
+* Comments allow you to describe your task(s). 
+* Issue # allows you to enter a Redmine ticket number to link the time to that ticket. 
+* Most time for Software Developers will be spent as Development. 
+* The Log As column should typically say Programming(internal). 
 
 ### Projects
-Every project has a Redmine page. A project's Redmine space contains project management details such as budget, tasks, time spent, important milestones, and even a wiki space if desired.
+Every project has a Redmine page. 
+
+[Redmine Projects](https://redmine.crc.nd.edu/redmine/projects/)
+ 
+Each Project will have tickets under the Issues tab. These are assigned to individuals. The Roadmap tab will show how the project is progressing. There is also the option to have a wiki to record project information. 
+
+### Best Practices
+The [Best Practices for Software Engineering](https://redmine.crc.nd.edu/redmine/projects/bestpractice) page is located in Redmine.
 
 ### SkillsMatrix
 TODO
