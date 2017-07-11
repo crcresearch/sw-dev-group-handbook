@@ -8,6 +8,9 @@
     * [Timekeeping](#timekeeping)
     * [Projects](#projects)
     * [SkillsMatrix](#skillsmatrix)
+* [Version Control](#version-control)
+    * [Git](#git)
+    * [GitHub] (#github)
 * [Communication](#communication)
     * [Google Group](#google-group)
     * [Slack](#slack)
@@ -39,12 +42,24 @@ Time is logged in Redmine.
 
 [Redmine Time Logging](https://redmine.crc.nd.edu/reports/home/)
 
-All time must be logged by the end of every month. It is easiest to log time on a daily basis. 
+All time must be logged by the end of every week. It is easiest to log time on a daily basis. 
+
+MyTimeOff-related absences should also be recorded in Redmine under the appropriate subproject of the MyTimeOff project in Redmine.
 
 ### Projects
-Every project has a Redmine page. 
+Every project has a Redmine page. A project's Redmine space contains project management details such as budget, tasks, time spent, important milestones, and even a wiki space if desired.
 
 ### SkillsMatrix
+TODO
+
+## Version Control
+### Git
+The CRC uses [git](https://git-scm.com) to version control code. Git is the industry standard for versioning and distributing code. 
+
+We generally employ a git branching model that is [gitflow](https://github.com/nvie/gitflow)-ish and loosely resembles the pattern in the related [blog post](http://nvie.com/posts/a-successful-git-branching-model/).
+
+### GitHub
+The CRC's git projects are usually hosted on GitHub. The CRC has a GitHub organization called **crcresearch**. Alex is the administrator of this organization and can add you as a collaborator. Our academic organization status allows us to use unlimited private repositories within our team.
 
 ## Communication
 ### Google Group
@@ -56,7 +71,7 @@ Alternatively, you can add a new topic directly within the [CRC CI Developers](h
 ### Slack
 The CRC uses Slack as its inter-office chat system.
 
-Our team is **crc-nd**. You can join the team [here](https://slack.com/get-started#join) or through an invitation email sent when one of the admins adds you to the team.
+Our team is **crc-nd**. You can join the team [here](https://slack.com/get-started#join) or through an invitation email sent when one of the admins adds you to the team. Currently, Rob Wieck and Caleb are admins for our organization
 
 We have a  number of channels for different conversations.
 You are required to join the #announcements channel.
