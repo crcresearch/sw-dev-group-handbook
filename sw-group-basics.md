@@ -7,6 +7,7 @@
 * [Redmine](#redmine)
     * [Timekeeping](#timekeeping)
     * [Projects](#projects)
+    * [Best Practices](#best-practices)
     * [SkillsMatrix](#skillsmatrix)
 * [Communication](#communication)
     * [Google Group](#google-group)
@@ -37,14 +38,54 @@ The Software Development Group also has an Out of Office Calendar that all of ou
 ### Timekeeping
 Time is logged in Redmine.
 
-[Redmine Time Logging](https://redmine.crc.nd.edu/reports/home/)
+[Redmine Time Logging Site](https://redmine.crc.nd.edu/reports/home/)
 
-All time must be logged by the end of every month. It is easiest to log time on a daily basis. 
+All time must be logged by the end of every week. It is easiest to log time on a daily basis. 
+
+Time is entered on the Entries page. Redmine also provides a calendar view and a pie chart view depicting the time distribution between projects.
+
+To enter your time:
+* Select the Project or other category that the item is billed to in the leftmost dropdown. 
+* Make sure you are entering time for the correct date. If you enter your time daily, this will default to the current day and you won't have any problems.
+* Time should be entered in a minimum of half hour increments. 
+* Comments allow you to describe your task(s). 
+* Issue # allows you to enter a Redmine ticket number to link the time to that ticket. 
+* Most time for Software Developers will be spent as Development. 
+* The Log As column should typically say Programming(internal). 
 
 ### Projects
 Every project has a Redmine page. 
 
+[Redmine Projects](https://redmine.crc.nd.edu/redmine/projects/)
+ 
+Each Project will have tickets under the Issues tab. These are assigned to individuals. The Roadmap tab will show how the project is progressing. There is also the option to have a wiki to record project information. 
+
+### Best Practices
+The [Best Practices for Software Engineering](https://redmine.crc.nd.edu/redmine/projects/bestpractice) page is located in Redmine.
+
 ### SkillsMatrix
+[SkillsMatrix]() is an application that allows us to keep track of what skills our developers know. Each developer has an account and can add their skills and skill levels to their profile. We can also search by skill, so  if you need help with a certain aspect of a project, you can look up who is familiar with that technology to ask questions or get advice.
+
+## Goals and Endeavor
+The University uses an online talent management system called Endeavor. Endeavor provides electronic tools to register for and track learning programs and conduct the performance management process for staff.
+
+Endeavor can be accessed at [endeavor.nd.edu](https://endeavor.nd.edu) or through the Endeavor app on [InsideND](https://inside.nd.edu). 
+
+More information on Endeavor can be found [here](http://hr.nd.edu/career-development/endeavor/).
+
+### Learning Management Tool
+ Endeavor lists courses available through Human Resources, the Office of Information Technology (OIT), and the Office of Continuous Improvement. You can register for courses through the system. Discuss taking a course with your supervisor.
+
+### Performance Management Tool
+Staff uses Endeavor to set annual goals and enter mid-year and year-end comments and ratings. You and your supervisor will discuss what goals make sense for you. 
+
+The annual Performace Management cycle basically fits in the academic year. We typically set our goals in July, do mid-year reviews around November, and end-of-year reviews in May. These reviews are held with your supervisor and will factor into your yearly rating. 
+
+Performance is evaluated on both goals and values. In addition to our own personal goals, we are also expected to work towards the University's goals and uphold the University's values. Information on the goals and values of the University can be found here: [Mission, Goals, & Values](http://hr.nd.edu/why-nd/university-goals-values/).
+
+The values and rating levels are explained in a [document provided by Human Resources](http://hr.nd.edu/assets/83570/universityvalueslevelsrev2012.pdf).
+
+More information on Performance Management can be found [here](http://hr.nd.edu/career-development/performance-management/performance-management/).
 
 ## Communication
 ### Google Group

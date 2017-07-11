@@ -1,6 +1,22 @@
 # CRC Social Events
 
 During the year we host and attend several social events.
+## Contents
+* [Yearly Events](#yearly-events)
+    * [Summer Picnic](#summer-picnic)
+    * [Pi Day](#pi-day)]
+    * [March Madness](#march-madness)
+    * [Football Fridays](#football-fridays)
+    * [Thanksgiving Potluck](#thanksgiving-potluck)
+    * [Christmas](#christmas)
+        * [SW Group Christmas Party](#software-group-christmas-party)
+        * [CRC Christmas Party](#crc-christmas-party)
+        * [NDR Christmas Party](#ndr-christmas-party)
+        * [President's Christmas Party](#president's-christmas-party)
+* [Other Events](#other-events)
+    * [First Thursdays](#first-thursdays)
+    * [Game Night](#game-night)
+    * [Lunch Service at Hope Ministries](#lunch-service-at-hope-ministries)
 
 ## Yearly Events
 
@@ -26,8 +42,10 @@ More information on the traditions of Football Friday can be found [here](https:
 Around Thanksgiving, we usually have a potluck lunch. Everyone is encouraged to bring in a dish to celebrate Thanksgiving.
 
 ### Christmas
+#### Software Group Christmas Party
+We had a small holiday party for the group in ITC 123 for the first time in December 2016. We had an ornament exchange, holiday movies, and board games. 
 
-#### CRC Holiday Party
+#### CRC Christmas Party
 Every December, we have the CRC Christmas Party. This family event is typically held in the clubhouse at Warren Golf Course and consists of a nice dinner and maybe a visit from Santa!
 
 #### NDR Christmas Party
@@ -38,7 +56,7 @@ A University-wide Christmas celebration is held in the Main Building each year, 
 
 ## Other Events
 
-### First Thursday
+### First Thursdays
 On the first Thursday of each month, we gather at one of the nearby restaurants for appetizers and drinks around 4:00 PM. Appetizers and non-alcoholic drinks are provided. This is a great opportunity to socialize outside of the work environment. Past First Thursdays have been held at Legends, Rohr's, O'Rourke's, and Brothers. 
 
 [Laura Kresnak](mailto:Laura.K.Kresnak.2@nd.edu) coordinates First Thursdays and is open to suggestions about where to host it. 
