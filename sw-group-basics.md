@@ -10,7 +10,7 @@
     * [SkillsMatrix](#skillsmatrix)
 * [Version Control](#version-control)
     * [Git](#git)
-    * [GitHub] (#github)
+    * [GitHub](#github)
 * [Communication](#communication)
     * [Google Group](#google-group)
     * [Slack](#slack)
